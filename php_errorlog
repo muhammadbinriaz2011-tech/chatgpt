@@ -1,0 +1,64 @@
+[23-Aug-2025 05:36:19 UTC] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[23-Aug-2025 05:36:19 UTC] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php:12
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php(12): pg_last_error()
+#1 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[23-Aug-2025 05:36:51 UTC] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[23-Aug-2025 05:36:51 UTC] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php:12
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php(12): pg_last_error()
+#1 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:14:39 UTC] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:14:39 UTC] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php:12
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php(12): pg_last_error()
+#1 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:21:36 UTC] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:21:36 UTC] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php:12
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php(12): pg_last_error()
+#1 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:21:45 UTC] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:21:45 UTC] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php:12
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php(12): pg_last_error()
+#1 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:27:01 UTC] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:27:01 UTC] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php:12
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php(12): pg_last_error()
+#1 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:27:43 UTC] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:27:43 UTC] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php:12
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php(12): pg_last_error()
+#1 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:35:34 UTC] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:35:34 UTC] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php:12
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php(12): pg_last_error()
+#1 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:38:08 UTC] PHP Deprecated:  pg_last_error(): Automatic fetching of PostgreSQL connection is deprecated in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+[15-Oct-2025 10:38:08 UTC] PHP Fatal error:  Uncaught Error: No PostgreSQL connection opened yet in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php:12
+Stack trace:
+#0 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php(12): pg_last_error()
+#1 /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/index.php(3): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa142.planetearth.school/public_html/chatgpt/db.php on line 12
+ 
